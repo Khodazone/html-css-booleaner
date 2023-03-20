@@ -15,7 +15,7 @@ body {
     position: absolute;
     right: 75%;
     top: 40%;
-    margin-left: 5%;
+    margin-left: 10%;
 }
 
 .title {
@@ -31,7 +31,7 @@ main p {
 }
 /* End Header */
 
-.foto {
+.photos {
     padding-top: 25px;
     padding-bottom: 0px;
 }
@@ -41,7 +41,7 @@ main p {
     font-size: smaller;
 }
 
-.names {
+.name {
     margin: 0;
 }
 
