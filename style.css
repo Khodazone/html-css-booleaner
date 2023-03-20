@@ -5,7 +5,7 @@ body {
 /* Header */
 #banner {
     width: 100%;
-    height: 180px;
+    height: 150px;
     background-image: url("../img/pattern.png");
     background-color: #3A638F;
     position: relative;
@@ -31,17 +31,17 @@ main p {
 }
 /* End Header */
 
-.foto_tim{
-    padding-top: 20px;
+.foto {
+    padding-top: 25px;
     padding-bottom: 0px;
 }
 
 /* Testo sotto foto */
-.testo_piccolo{
+.piccolo {
     font-size: smaller;
 }
 
-.nomi{
+.name {
     margin: 0;
 }
 
