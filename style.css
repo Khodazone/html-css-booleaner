@@ -21,7 +21,7 @@ body {
     margin-bottom: 0;
 }
 
-main p {
+main > p {
     color: grey;
 }
 
