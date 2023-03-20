@@ -21,7 +21,7 @@ body {
     margin-bottom: 0;
 }
 
-main > p {
+.name {
     color: grey;
 }
 
@@ -40,6 +40,10 @@ main > p {
 
 .name {
     margin: 0;
+}
+
+.names {
+    margin:0;
 }
 
 .yellow {
