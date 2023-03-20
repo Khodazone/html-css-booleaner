@@ -46,57 +46,10 @@ main p {
     background-color: yellow;
 }
 
-.lista{
+.list {
     padding-left: 20px;
 }
 
-li p{
+li p {
     margin: 0;
-}
-
-table{
-    border-collapse: collapse;
-}
-
-#row1{
-    background-color: rgb(98, 98, 163);
-}
-
-.spazio{
-    width: 25%;
-}
-
-#row_aqua{
-    background-color: aqua;
-}
-/* Fine tabella */
-
-/* Footer */
-.consigli{
-    font-weight: 800;
-    color: grey;
-}
-
-.img_footer{
-    background-image: url("../img/monitor.jpg");
-    height: 200px;
-    background-repeat: no-repeat;
-    color: white;
-    font-weight: 800;
-    padding-top: 10px;
-}
-
-.img_footer2{
-    background-image: url("../img/graph.jpg");
-    height: 200px;
-    background-repeat: no-repeat;
-    color: white;
-    font-weight: 800;
-    padding-top: 10px;
-}
-/* Fine footer */
-
-.macro_div{
-    margin-left: 5%;
-    margin-right: 5%;
 }
