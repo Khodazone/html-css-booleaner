@@ -4,7 +4,7 @@ body {
 
 #banner {
     width: 100%;
-    height: 150px;
+    height: 100px;
     background-image: url("./img/pattern.png");
     background-color: #3A638F;
     position: relative;
