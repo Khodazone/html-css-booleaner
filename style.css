@@ -26,7 +26,7 @@ main p {
     color: black;
 }
 
-#blue{
+#blue {
     color: blue;
 }
 /* End Header */
@@ -37,11 +37,11 @@ main p {
 }
 
 /* Testo sotto foto */
-.piccolo {
+.tiny {
     font-size: smaller;
 }
 
-.name {
+.names {
     margin: 0;
 }
 
